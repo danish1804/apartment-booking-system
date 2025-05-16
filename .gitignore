@@ -2,12 +2,10 @@ __pycache__/
 *.py[cod]
 .env
 *.env
-.env.*
+.DS_Store
 .vscode/
 .idea/
 *.log
-*.csv
-*.json
-*.pkl
-save_data/
+data/
+savegame.json
 
